@@ -9,6 +9,5 @@ setup(
     install_requires=[
         'torch',
         'torchvision',
-        'h5py',
     ]
 )
